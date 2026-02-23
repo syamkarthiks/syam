@@ -78,3 +78,6 @@
 ## ⚡ Fun Fact
 
 I love building clean UI and learning new technologies 🚀
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
