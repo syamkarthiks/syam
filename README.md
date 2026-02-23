@@ -17,4 +17,4 @@
 
 ## 📫 Contact
 - GitHub: https://instagram.com/sy4m0
-- Bot link: water.me/bot
+- Bot link: https://watext.me/bot
