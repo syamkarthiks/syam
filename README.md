@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="https://i.imgflip.com/akvfdp.gif" alt="Banner" width="100%" />
-
 ## 🧠 My Focus Areas
 - Web Development
 - Whatsapp bot development
@@ -55,6 +53,6 @@
 </picture>
 
 <div align="center">
-  <img src="https://i.imgflip.com/akvfdp.gif" alt="Bottom Line" width="100%" />
+  <img src="https://i.imgflip.com/akvfdp.gif" alt="Bottom Line" width="70%" />
 </div>
 
